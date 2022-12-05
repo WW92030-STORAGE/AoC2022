@@ -3,8 +3,6 @@ import sys
 import math
 import collections
 
-# INPUT FORMATTING - Remove the blank line and the line with the numbers denoting the columns
-
 n = int(input())
 
 res = 0
